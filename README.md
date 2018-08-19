@@ -7,7 +7,7 @@ Guns: There are three available guns: pistol, rifle, and submachinegun. Each has
 
 Items: There are three available items: bomb, decoy, and shield. Each has their own unique cooldown and behavior.
 
--Bomb: Use the bomb [1] to deal massive damage to all zombies within the blast zone. The bomb will destroy corpses! Note: We are aware of a bug where the bomb can only be used once.
+-Bomb: Use the bomb [1] to deal massive damage to all zombies within the blast zone. The bomb will destroy corpses!
 
 -Shield: Use the shield [2] to block all zombie damage for a set amount of time.
 
