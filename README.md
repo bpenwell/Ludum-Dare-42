@@ -1,6 +1,8 @@
 # Ludum Dare 42
 Top-down shooter where enemy corpses take up space. Corpses block bullets so you will need to upgrade your weapons and manage your surroundings to get a high score!
 
+Created by Zachary Mcllwain, Sam Whitaker, Enzo Arata, and Ben Penwell
+
 Movement: Use [W],[A],[S],[D] to move your character around the battlefield, shooting zombies toward your cursor with [Left Click].
 
 Guns: There are three available guns: pistol, rifle, and submachinegun. Each has their own unique damage, reload speed, clip size, and penetration (how many zombies 1 bullet can go through). Toggle between these guns with [Q] and [E].
