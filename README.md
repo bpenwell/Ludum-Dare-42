@@ -1,4 +1,7 @@
 # Ludum Dare 42
+
+Created in Unity.
+
 Top-down shooter where enemy corpses take up space. Corpses block bullets so you will need to upgrade your weapons and manage your surroundings to get a high score!
 
 Created by Zachary Mcllwain, Sam Whitaker, Enzo Arata, and Ben Penwell
